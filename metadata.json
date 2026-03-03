@@ -1,0 +1,5 @@
+{
+  "name": "Screening_Agent_EHR",
+  "description": "Analyzes clinical text to provide educational information on cancer screening based on USPSTF and ACS guidelines.",
+  "requestFramePermissions": []
+}
